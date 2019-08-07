@@ -11,6 +11,6 @@
     </entity>
     <elements>
         <element name="Playlist" positionX="-63" positionY="-18" width="128" height="75"/>
-        <element name="Song" positionX="-54" positionY="0" width="128" height="90"/>
+        <element name="Song" positionX="257.48828125" positionY="-130.09375" width="128" height="90"/>
     </elements>
 </model>
